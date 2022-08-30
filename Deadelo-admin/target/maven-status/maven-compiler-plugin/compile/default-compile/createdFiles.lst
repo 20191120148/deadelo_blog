@@ -1,0 +1,5 @@
+com\deadelo\filter\JwtAuthenticationTokenFilter.class
+com\deadelo\controller\TagController.class
+com\deadelo\BlogAdminApplication.class
+com\deadelo\config\SecurityConfig.class
+com\deadelo\controller\LoginController.class
